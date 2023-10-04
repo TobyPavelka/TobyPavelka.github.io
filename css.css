@@ -1,0 +1,13 @@
+
+table {
+    background-color: lightgray;
+    border: solid 1px;
+}
+th {
+    font-weight: bold;
+    border: solid 1px;
+}
+td{
+    border: solid 1px;
+    text-align: center;
+}
